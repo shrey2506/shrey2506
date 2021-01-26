@@ -7,6 +7,7 @@
 
 <div align="center">
   <h2>Hi there, I'm Shrey Srivastava! </h2>
+  <h3>Full Stack Developer </h3>
 <br>
 <br>
 <br>
@@ -19,8 +20,7 @@
 </a>
 <br>
 <br>
-You can find me on:
-[Linkedin](https://www.linkedin.com/in/shrey-s-b22762116/) - [Gmail](mailto: shreysrivastava20@gmail.com)
+
 
 </div>
 
