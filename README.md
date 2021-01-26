@@ -8,7 +8,7 @@
 <br>
 <br>
 <a href="https://github.com/shrey2506?tab=repositories">
-<img width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shrey2506&count_private=true&layout=compact&hide=makefile,shell&hide_title=true&hide_border=true " />
+<img width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shrey2506&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
 <br>
 <br>
