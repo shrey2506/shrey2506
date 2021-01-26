@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+# Hi there, I'm Shrey Srivastava!
 <br>
 <br>
 <br>
