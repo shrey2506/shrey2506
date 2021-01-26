@@ -6,7 +6,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shrey2506&show_icons=true" />
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxminagln&layout=compact)
+<a href="https://github.com/shrey2506?tab=repositories">
+  <img width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=victorabarros&count_private=true&layout=compact&hide=makefile,shell&hide_title=true&hide_border=true" />
+</a>
 <br>
 <br>
 You can find me on:
